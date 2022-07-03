@@ -1,0 +1,38 @@
+div{
+  display: inline-block;
+
+}
+
+.Board{
+  width:200px;
+  height:240px;
+}
+
+.row{
+  width:200px;
+  height:40px;
+}
+
+.cell{
+  width:40px;
+  height:40px;
+}
+
+.button{
+  width:40px;
+  height:40px;
+}
+
+.place{
+  width:200px;
+  height:100px;
+}
+
+.left{
+  display: inline-block;
+}
+
+.red{
+  background-color:red;
+}
+
